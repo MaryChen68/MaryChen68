@@ -26,7 +26,9 @@ I'm a Computer Science junior at Calvin University.
 - **Put the prompts under test.** A set of test documents plus a way to see what the LLM returns for
   each one, and at what latency — so prompt changes stop being guesswork.
 
-### Reflective mind-mapping — *[AIToolsLab/writing-tools/prototype_mindmap](https://github.com/AIToolsLab/writing-tools/prototype_mindmap)*
+### Reflective mind-mapping — *[AIToolsLab/writing-tools/prototype_mindmap](https://github.com/AIToolsLab/writing-tools/tree/main/prototype_mindmap)*
+
+**Co-first author on the UIST paper.** <!-- TODO: add the title and a link once it's public -->
 
 - **An assistant that isn't allowed to write for you.** It asks questions and mirrors your own words
   back; a validator rejects any reflection whose content words can't be traced to something you
@@ -38,26 +40,15 @@ I'm a Computer Science junior at Calvin University.
   writer's own text goes down a separate path behind a translation memory. Before, both were going to
   OpenAI on every render, toggle, and language switch.
 
-<!-- TODO: if you're an author on the UIST paper, say so here (and your authorship position). I left it
-     out because I can't verify it from the repo. -->
-
-## 🧭 How I Work
-
-- **Read before writing.** Most of the work on an existing codebase is understanding what's already
-  there. I'd rather spend an hour reading than an afternoon undoing.
-- **Small, reviewable changes.** Commits that do one thing, with a message that says which thing.
-- **Understand the tools I use.** Frameworks and AI assistants both speed things up — but I want to be
-  able to explain every line I ship, whoever or whatever wrote it first.
-
-<!-- TODO: these are placeholders that fit most students. Swap in your own principles when you have them. -->
 
 ## 📂 Selected Public Work
 
 - **[AIToolsLab/writing-tools](https://github.com/AIToolsLab/writing-tools)** — The lab's writing-support
   platform, shipped as **Thoughtful AI**. My work is the Google Docs add-in, the frontend and backend
   test suites, and CI.
-- **`prototype_mindmap`** — The UIST reflective mind-mapping prototype. A separate research effort from
-  the Thoughtful AI product. <!-- TODO: add the link — same repo under a subdirectory, or its own repo? -->
+- **[prototype_mindmap](https://github.com/AIToolsLab/writing-tools/tree/main/prototype_mindmap)** — The
+  reflective mind-mapping research prototype, a separate effort from the Thoughtful AI product.
+  Co-first author on the UIST paper.
 - **[monopoly-service](https://github.com/MaryChen68/monopoly-service-mary)** — [CS262 team project.
   Describe what the service does and which part you built.]
 
