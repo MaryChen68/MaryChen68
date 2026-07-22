@@ -26,7 +26,7 @@ I'm a Computer Science junior at Calvin University.
 - **Put the prompts under test.** A set of test documents plus a way to see what the LLM returns for
   each one, and at what latency — so prompt changes stop being guesswork.
 
-### Reflective mind-mapping — *[AIToolsLab/writing-tools/prototype_mindmap](https://github.com/AIToolsLab/writing-tools/tree/main/prototype_mindmap)*
+### Reflective mind-mapping — *[AIToolsLab/writing-tools/prototype-mindmap](https://github.com/AIToolsLab/writing-tools/tree/feat/mindmap_translation/prototype-mindmap)*
 
 **Co-first author on the UIST paper.** <!-- TODO: add the title and a link once it's public -->
 
@@ -46,8 +46,8 @@ I'm a Computer Science junior at Calvin University.
 - **[AIToolsLab/writing-tools](https://github.com/AIToolsLab/writing-tools)** — The lab's writing-support
   platform, shipped as **Thoughtful AI**. My work is the Google Docs add-in, the frontend and backend
   test suites, and CI.
-- **[prototype_mindmap](https://github.com/AIToolsLab/writing-tools/tree/main/prototype_mindmap)** — The
-  reflective mind-mapping research prototype, a separate effort from the Thoughtful AI product.
+- **[prototype-mindmap](https://github.com/AIToolsLab/writing-tools/tree/feat/mindmap_translation/prototype-mindmap)** —
+  The reflective mind-mapping research prototype, a separate effort from the Thoughtful AI product.
   Co-first author on the UIST paper.
 - **[monopoly-service](https://github.com/MaryChen68/monopoly-service-mary)** — [CS262 team project.
   Describe what the service does and which part you built.]
