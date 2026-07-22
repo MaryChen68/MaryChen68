@@ -7,9 +7,9 @@ Node and Java on the back — and I care about writing code that the next person
 
 I'm a Computer Science junior at Calvin University.
 
-[![Email](https://img.shields.io/badge/Email-jc264%40calvin.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jc264@calvin.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jiamei%20Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE_ME)
-[![GitHub](https://img.shields.io/badge/GitHub-MaryChen68-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaryChen68)
+[![Email](https://img.shields.io/badge/jc264%40calvin.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jc264@calvin.edu)
+[![LinkedIn](https://img.shields.io/badge/Jiamei%20Chen-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE_ME)
+[![GitHub](https://img.shields.io/badge/MaryChen68-181717?style=flat&logo=github&logoColor=white)](https://github.com/MaryChen68)
 
 ---
 
@@ -26,7 +26,7 @@ I'm a Computer Science junior at Calvin University.
 - **Put the prompts under test.** A set of test documents plus a way to see what the LLM returns for
   each one, and at what latency — so prompt changes stop being guesswork.
 
-### Reflective mind-mapping — *UIST research prototype (`prototype_mindmap`)*
+### Reflective mind-mapping — *[AIToolsLab/writing-tools/prototype_mindmap](https://github.com/AIToolsLab/writing-tools/prototype_mindmap)*
 
 - **An assistant that isn't allowed to write for you.** It asks questions and mirrors your own words
   back; a validator rejects any reflection whose content words can't be traced to something you
@@ -67,32 +67,32 @@ I'm a Computer Science junior at Calvin University.
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-2B3137?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2B3137?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2B3137?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2B3137?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2B3137?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-2B3137?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-2B3137?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2B3137?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2B3137?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2B3137?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2B3137?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **Testing & Build**
 
-![Playwright](https://img.shields.io/badge/Playwright-2B3137?style=for-the-badge&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-2B3137?style=for-the-badge&logo=vitest&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-2B3137?style=for-the-badge&logo=pytest&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-2B3137?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2B3137?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2B3137?style=for-the-badge&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-2B3137?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-2B3137?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-2B3137?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
