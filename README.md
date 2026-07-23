@@ -1,11 +1,11 @@
-# Hey, I'm Jiamei 👋
+# Mary Chen👋
 
 **Computer Science & Data Science · web developer · building full-stack, end to end**
 
 I build web applications from the interface down to the database — React and TypeScript on the front,
 Node and Java on the back — and I care about writing code that the next person can pick up and understand.
 
-I'm a Computer Science junior at Calvin University.
+Computer Science junior at Calvin University.
 
 [![Email](https://img.shields.io/badge/jc264%40calvin.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jc264@calvin.edu)
 [![LinkedIn](https://img.shields.io/badge/Jiamei%20Chen-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE_ME)
@@ -28,9 +28,9 @@ I'm a Computer Science junior at Calvin University.
 
 ### Reflective mind-mapping — *[AIToolsLab/writing-tools/prototype-mindmap](https://github.com/AIToolsLab/writing-tools/tree/feat/mindmap_translation/prototype-mindmap)*
 
-**Co-first author on the UIST paper.** <!-- TODO: add the title and a link once it's public -->
+**Co-first author on the UIST paper.** 
 
-- **An assistant that isn't allowed to write for you.** It asks questions and mirrors your own words
+- **An AI assistanting writing tools that protecting quthorship for you.** It asks questions and mirrors your own words
   back; a validator rejects any reflection whose content words can't be traced to something you
   actually said.
 - **Made the idea measurable.** Three comparable levels of constraint, teacher and writer recap views
@@ -49,9 +49,9 @@ I'm a Computer Science junior at Calvin University.
 - **[prototype-mindmap](https://github.com/AIToolsLab/writing-tools/tree/feat/mindmap_translation/prototype-mindmap)** —
   The reflective mind-mapping research prototype, a separate effort from the Thoughtful AI product.
   Co-first author on the UIST paper.
-- **[monopoly-service](https://github.com/MaryChen68/monopoly-service-mary)** — [CS262 team project.
-  Describe what the service does and which part you built.]
-
+- **[CoupleBound App](https://github.com/orgs/calvin-cs262-fall2025-teamH/repositories)** — Developed a mobile app for couples to share tasks, track anniversaries, and strengthen daily connection 
+Built real-time data synchronization using Server-Sent Events (SSE) and optimistic UI patterns.
+Implemented secure authentication and database integration using Firebase and PostgreSQL.
 <!-- TODO: add more as you publish them. -->
 
 ## ⚙️ Tech Stack
@@ -86,4 +86,3 @@ I'm a Computer Science junior at Calvin University.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
